@@ -1,0 +1,21 @@
+{
+  "name": "hain-plugin-exec",
+  "version": "0.0.1",
+  "description": "Execute command (with optional parameters) plugin for Hain",
+  "main": "index.js",
+  "author": "lawgsy <lawgsy@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lawgsy/hain-plugin-exec.git"
+  },
+  "keywords": [
+    "hain-0.6.0"
+  ],
+  "hain": {
+    "prefix": "/exec ",
+    "usage": "/exec something",
+    "icon": "#fa fa-terminal",
+    "redirect": "/exec "
+  }
+}
