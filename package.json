@@ -1,6 +1,6 @@
 {
   "name": "hain-plugin-exec",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Execute command (with optional parameters) plugin for Hain",
   "main": "index.js",
   "author": "lawgsy <lawgsy@gmail.com>",
